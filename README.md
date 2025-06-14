@@ -1,5 +1,4 @@
-# Dart | Flutter | Princípios SOLID | Arquitetura Limpa
 
-App Checklist - Aplicação dos Princípios SOLID em Dart/Flutter utilizando gerenciamento de estados de forma desacoplada da lógica de negócios (BloC) e Arquitetura Limpa em camadas.
+Checklist App – A Dart/Flutter project applying SOLID principles, with state management handled separately from business logic using the BLoC pattern, and structured following a layered Clean Architecture approach.
 
-## checklist_bloc_app | BloC (Business Logic Component)
+##| BloC (Business Logic Component) | Clean Architecture | SOLID | Flutter | Dart |
